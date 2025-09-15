@@ -17,11 +17,8 @@ An automated aiming script for Destiny 2's Fighting Lion exotic grenade launcher
 - **Hotkey Controls**: Press 'h' to start/stop the script
 - **Firewall Integration**: Blocks Destiny 2 networking ports for solo play
 
-## 🎥 Demo Video
-
-[![Fighting Lion FFT Auto-Aim Demo](https://img.youtube.com/vi/Vx1zXPyDAZ0/0.jpg)](https://www.youtube.com/watch?v=Vx1zXPyDAZ0)
-
-*Click the thumbnail above to watch the demo video*
+## 🎥 Demo
+[Watch the demo video](https://www.youtube.com/watch?v=Vx1zXPyDAZ0)
 
 ## 📋 Installation
 
