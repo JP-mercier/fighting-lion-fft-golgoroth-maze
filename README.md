@@ -38,7 +38,7 @@ python fighting_lion_auto.py
 ## 🎮 Usage
 
 1. Launch Destiny 2 and navigate to Golgoroth's Maze encounter
-2. Position your character at the designated spot (coordinates: 1950, 658)
+2. Position your character at the designated spot
 3. Run the script and press 'h' to start
 4. The script will automatically:
    - Take a reference screenshot
